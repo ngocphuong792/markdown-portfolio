@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- Some skills
+  * Foreign language: **_Japanese and English_**
+  * Translation
+  * Office tools: **_MS Word, Excel, PowerPoint, SQL Server_**
+
+  
+
