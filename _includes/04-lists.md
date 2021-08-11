@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+- Something I like ❤️ 🖤
+  * go shopping 🛍️
+  * watching TV 📺
+  * reading book 📖
+  * cooking 🍪
